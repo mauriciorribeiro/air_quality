@@ -1,1 +1,7 @@
 # air_quality
+
+SEN55 R$200
+SGP41 R$50
+BME680 R$30
+CCS811 R$50
+
